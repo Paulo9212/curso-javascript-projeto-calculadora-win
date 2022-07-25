@@ -1,0 +1,1 @@
+window.win_calculator = new winCalControler();
